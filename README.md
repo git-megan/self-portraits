@@ -1,7 +1,7 @@
 # Self Portraits in Processing
 For my Creative Coding class midterm, I spent a day coding 5 pieces of art in Processing (based on Java). These artworks use either a line pen (drawing in only straight lines) or an ellipse pen (drawing in only ellipses) to create the portraits. Creating different pens was a fun exercise in object oriented programming and inheritence. Creating different iterations using matrix manipulation was a fun art and computer graphics exercise.
 
-To access this yourself, run the MeganB_CreativeCoding_Midterm.pde file in the Processing Development Environment, with all files downloaded in the same folder for the sketch. The program will randomly generate of of the 5 iterations of the art on each run.
+To access this yourself, run the MeganB_CreativeCoding_Midterm.pde file in the Processing Development Environment, with all files downloaded in the same folder for the sketch. The program will randomly generate one of the 5 iterations of the art on each run.
 
 ## Iteration 0: Line Pen Still
 I created a function to print out my mouse's x and y coordinates, so I could later draw lines based on my mouse clicks. Resulting image is below.
