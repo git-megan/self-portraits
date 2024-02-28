@@ -1,0 +1,2 @@
+# Self Portraits in Processing
+For my Creative Coding class midterm, I spent a day coding 5 pieces of art in Processing (based on Java). These artworks use either a line pen (drawing in only straight lines) or an ellipse pen (drawing in only ellipses) to create the portraits. Creating different pens was a fun exercise in object oriented programming and inheritence. Creating different iterations using matrix manipulation, was a fun art and computer graphics exercise.
