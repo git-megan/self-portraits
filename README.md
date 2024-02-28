@@ -3,6 +3,7 @@ For my Creative Coding class midterm, I spent a day coding 5 pieces of art in Pr
 
 ## Iteration 0: Line Pen Still
 I created a function to print out my mouse's x and y coordinates, so I could later draw lines based on my mouse clicks. Resulting image is below.
+
 ![image](https://github.com/git-megan/self-portraits/assets/114352576/182bc5b0-8256-4b57-9b29-2877528120cd)
 
 ## Iteration 1: Ellipse Pen Still
